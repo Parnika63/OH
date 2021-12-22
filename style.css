@@ -1,0 +1,37 @@
+
+
+body{
+    font-family: 'Amatic SC', cursive;
+}
+
+
+#score{
+    margin-left: 10px;
+    font-size: 20px;}
+#timer{
+    float: right;
+    margin-right:10px;
+    font-size: 20px;
+
+}
+body{
+    background-color: #becfff;
+}
+h1{
+    background-color: rgb(255, 255, 255);
+    color: #c77dff
+
+}
+#show_sketch{
+    float: right;
+}
+p{
+
+    font-size: 25px;
+    color: #ffffff;
+}
+#sketch_to_be_drawn{
+    
+    font-size: 25px;
+    color: #ffffff;
+}
